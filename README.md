@@ -9,7 +9,7 @@
 **About me**
 - 🧑 I'm a computer engineering student at University of the State of Amazonas and I'm in my third year of five
 - 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Natural Language Processing
-- 💻 I'm currently too learnning Web development using VueJs, PHP and MySQL
+- 💻 I'm also learnning Web development using VueJs, PHP and MySQL
 
 **And my goals**
 - 📖 Learn everything I can
