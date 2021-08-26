@@ -10,7 +10,10 @@
 - 🧑 I'm a computer engineering student at University of the State of Amazonas and I'm in my third year of five
 - 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Natural Language Processing
 - 💻 I'm currently too learnning Web development using VueJs, PHP and MySQL
-- 📔 One of my objetives is share knowledge, because that's one of the most important things we can have
+
+**And my goals**
+- 📖 Learn everything I can
+- 💬 Share knowledge, because that's one of the most important things we can have
 
 **Language and Tools**
 
@@ -20,6 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/3571983?s=200&v=4"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 
 
 <!--
