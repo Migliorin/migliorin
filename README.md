@@ -9,21 +9,21 @@
 **About me**
 - 🧑 I'm a computer engineering student at University of the State of Amazonas and I'm in my third year of five
 - 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Natural Language Processing
-- 💻 I'm also learnning Web development using VueJs, PHP and MySQL
+- 💻 I'm also learning Web development using VueJs, PHP and MySQL
 
-**And my goals**
+**And my goals are**
 - 📖 Learn everything I can
 - 💬 Share knowledge, because that's one of the most important things we can have
 
-**Language and Tools**
+**Languages and Tools**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/3571983?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+<code><a href="https://www.javascript.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="https://www.python.org/"><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></a></code>
+<code><a href="https://vuejs.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
+<code><a href="https://www.mysql.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
+<code><a href="https://vuetifyjs.com/en/"><img height="20" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4"></a></code>
+<code><a href="https://www.anaconda.com/"><img height="20" src="https://avatars.githubusercontent.com/u/3571983?s=200&v=4"></a></code>
+<code><a href="https://laravel.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></a></code>
 
 
 <!--
