@@ -7,13 +7,14 @@
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 **About me**
-- 🧑 I'm a computer engineering student at University of the State of Amazonas and I'm in my third year of five
-- 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Natural Language Processing
-- 💻 I'm also learning Web development using VueJs, PHP and MySQL
+- 🧑 I'm a computer engineering student at Amazonas State University and I'm in my third year of five
+- 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Computer Vision. I worked with Natural Language Processing as well.
+- 💻 Sometimes, I do Data Science projects freelancer :)
 
 **And my goals are**
 - 📖 Learn everything I can
 - 💬 Share knowledge, because that's one of the most important things we can have
+- 👨‍🎓 Become a Data Scientist and apply my knowleadge
 
 **Languages and Tools**
 
