@@ -8,8 +8,9 @@
 
 **About me**
 - 🧑 I'm a computer engineering student at Amazonas State University and I'm in my third year of five
-- 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Computer Vision. I worked with Natural Language Processing as well.
-- 💻 Sometimes, I do Data Science projects freelancer :)
+- 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Computer Vision mainly. I worked with Natural Language Processing as well.
+- 💻 Sometimes I do Data Science projects freelancer and personal projects :)
+- 👯 I’m looking to collaborate on science community with science reasearchs about Deep Learning
 
 **And my goals are**
 - 📖 Learn everything I can
@@ -18,14 +19,19 @@
 
 **Languages and Tools**
 
-<code><a href="https://www.javascript.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href="https://www.python.org/"><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></a></code>
-<code><a href="https://vuejs.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
 <code><a href="https://www.mysql.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
-<code><a href="https://vuetifyjs.com/en/"><img height="20" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4"></a></code>
 <code><a href="https://www.anaconda.com/"><img height="20" src="https://avatars.githubusercontent.com/u/3571983?s=200&v=4"></a></code>
-<code><a href="https://laravel.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></a></code>
+<code><a href="https://pytorch.org/"><img height="20" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></a></code>
+<code><a href="https://www.tensorflow.org"><img height="20" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></a></code>
 
+
+<!--
+<code><a href="https://www.javascript.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="https://vuejs.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
+<code><a href="https://vuetifyjs.com/en/"><img height="20" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4"></a></code>
+<code><a href="https://laravel.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></a></code>
+-->
 
 <!--
 **Migliorin/migliorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
