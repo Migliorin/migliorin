@@ -1,49 +1,41 @@
-## Hi, I'm Lucas 👋
+## Hi, I'm Lucas 👋  
+Computer Engineer | Machine Learning & Deep Learning
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucas-migliorin-993566197)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lucas.migliorin/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lucas_Migliorin)
 
+### 👨‍💻 About me
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+- 🎓 Computer Engineering student at **Amazonas State University (UEA)** — graduating this year  
+- 🔬 Working mainly with **Machine Learning and Deep Learning**, with experience in **Data Science**  
+- 🤖 Strong hands-on experience with **Large Language Models (LLMs)** and **LLM-based pipelines**  
+- 🧠 Strong interest and active study in the **mathematical and algebraic foundations of Artificial Intelligence**  
+- ⚙️ Enjoy developing **low-level AI-related projects** using **C/C++**, especially when performance and control matter  
+- 💼 Experience with **freelance and personal projects** in Data Science and AI  
+- 🤝 Open to collaborations in **scientific research**, especially in Deep Learning and applied AI  
 
-**About me**
-- 🧑 I'm a computer engineering student at Amazonas State University and I'm in my third year of five
-- 🧑‍💻 Currently, I work with Data Science, Machine/Deep Learning and Computer Vision mainly. I worked with Natural Language Processing as well.
-- 💻 Sometimes I do Data Science projects freelancer and personal projects :)
-- 👯 I’m looking to collaborate on science community with science reasearchs about Deep Learning
+---
 
-**And my goals are**
-- 📖 Learn everything I can
-- 💬 Share knowledge, because that's one of the most important things we can have
-- 👨‍🎓 Become a Data Scientist and apply my knowleadge
+### 🎯 Goals
 
-**Languages and Tools**
+- 📖 Continuously learn and deepen my understanding of AI, from theory to production systems  
+- 💬 Share knowledge and contribute to the AI and research community  
+- 👨‍🎓 Build a solid career as a **Data Scientist / Machine Learning Engineer**, with strong theoretical foundations  
 
-<code><a href="https://www.python.org/"><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></a></code>
-<code><a href="https://www.mysql.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
-<code><a href="https://www.anaconda.com/"><img height="20" src="https://avatars.githubusercontent.com/u/3571983?s=200&v=4"></a></code>
-<code><a href="https://pytorch.org/"><img height="20" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></a></code>
-<code><a href="https://www.tensorflow.org"><img height="20" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></a></code>
+---
 
+### 🧠 Areas of Interest
 
-<!--
-<code><a href="https://www.javascript.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://vuejs.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
-<code><a href="https://vuetifyjs.com/en/"><img height="20" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4"></a></code>
-<code><a href="https://laravel.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></a></code>
--->
+- Deep Learning  
+- Large Language Models (LLMs)  
+- AI Pipelines and LLM-centric systems  
+- Computer Vision  
+- Mathematical Foundations of AI  
+- High-performance and low-level AI systems  
 
-<!--
-**Migliorin/migliorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🐶 Fun fact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My favorite animal is a **corgi**
