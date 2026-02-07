@@ -1,4 +1,6 @@
 # Hi, I am Lucas
+I currently work as an AI Developer
+
 Somethings about me:
 - I'm a student in Computer Engineering - graduating this year
 - I work with Machine and Deep Learning. Sometimes I do fun C projects
